@@ -2,7 +2,7 @@
 title: xiarose Blog
 SEOTitle: xiarose的博客 | BY Blog
 header-img: img/post-bg-desk.jpg
-email: qiubaiying@gmail.com
+email: xiar9090@gmail.com
 description: "Every failure is leading towards success."
 keyword: "BY, BY Blog, xiarose的博客, xiarose, xia, iOS, Apple, iPhone"
 url: "http://xiar9090.github.io"          # your host, for absolute URL
@@ -11,7 +11,7 @@ github_repo: "https://github.com/xiar9090/xiar9090.github.io.git" # you code rep
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "Goals determine what you going to be!"
+sidebar-about-description: " Tomorrow is another day!"
 sidebar-avatar: /img/img/avatar-m.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
